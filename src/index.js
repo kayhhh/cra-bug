@@ -1,3 +1,5 @@
+const TEST = 2n ** 3n;
+
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
